@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Lucas Portinho from Rio de Janeiro, Brazil.<br><br>- 🔭 I’m currently working in a project that generates books illustrations based on user feelings about the book, using Langchain.<br>- 📚 I'm currently learning artifical intelligence and Next.JS.<br>- ⚡ In my free time i like to create fun solutions to problems of my life.</p>
+<p align="left">I'm Lucas Portinho from Rio de Janeiro, Brazil.<br><br>- 🔭 I’m currently working in a project that generates books illustrations based on user feelings about the book, using Langchain.<br>- 📚 I'm currently learning about artifical intelligence and Next.JS.<br>- ⚡ In my free time i like to create fun solutions to problems of my life.</p>
 
 ###
 
